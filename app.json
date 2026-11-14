@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Task 4 - Perfil y personajes",
+    "slug": "task4-profile-characters",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}
